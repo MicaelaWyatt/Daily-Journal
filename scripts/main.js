@@ -1,3 +1,4 @@
-import {EntryListComponent} from "./JournalEntryList"
+console.log("you are beautiful")
+import {EntryListComponent} from "./JournalEntryList.js"
 
 EntryListComponent();
